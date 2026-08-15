@@ -27,3 +27,6 @@ Sumber: [Telco Customer Churn - Kaggle]([link-kaggle](https://www.kaggle.com/dat
 
 ## Tools
 Power BI Desktop (Power Query, DAX, Data Visualization)
+
+## Screenshot
+![Dashboard](screenshotdashboard.png)
